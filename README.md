@@ -130,9 +130,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40" alt="arduino logo"  />
 </div>
 
-###
-
-<h4 align="center">Socials</h4>
 
 ###
 
