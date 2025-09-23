@@ -136,26 +136,6 @@
 
 ###
 
-<div align="center">
-  <a href="www.linkedin.com/in/adisesh-raghavendra-rao-10842528a" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="93" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/Adisesh_05" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="93" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/adisesh__05" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="93" height="40" alt="instagram logo"  />
-  </a>
-  <a href="adisesh2267@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="93" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://t.me/Adisesh_05" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="93" height="40" alt="telegram logo"  />
-  </a>
-</div>
-
-###
-
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Adisesh05.Adisesh05&"  />
 </div>
